@@ -16,5 +16,6 @@ public class Textgitjava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Tulisan Ku");
+        System.out.println("Tulisan Ku");
     }
 }
